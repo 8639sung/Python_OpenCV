@@ -1,3 +1,3 @@
 # Python_OpenCV
 
-This Repository is created to use the functions of OpenCV with Python and make simple examples
+파이썬 공부와 OpenCV를 공부하기 위해 정리하는 곳입니다.
